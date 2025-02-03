@@ -1,1 +1,9 @@
-{}
+{
+  "autoConvertHtml": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "学习的笔记",
+  "attachmentFolderPath": "attachment/word",
+  "strictLineBreaks": true
+}

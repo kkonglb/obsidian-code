@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "80e2a74b8c71f0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "demo"
             }
           },
           {
@@ -30,8 +44,61 @@
               "icon": "gear",
               "title": "Style Settings"
             }
+          },
+          {
+            "id": "303ba2ee960c4938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "demo"
+            }
+          },
+          {
+            "id": "431c955b8b26eb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-01-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-31"
+            }
+          },
+          {
+            "id": "1b48e1635f28d6ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习的笔记/word/基本习惯和快捷键.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "基本习惯和快捷键"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -50,7 +117,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -103,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2025-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2025-01-31 的反向链接列表"
             }
           },
           {
@@ -146,17 +215,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "学习的笔记/word/基本习惯和快捷键.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "基本习惯和快捷键 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +239,40 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "a99c231c8016c1cd",
+  "active": "1b48e1635f28d6ba",
   "lastOpenFiles": [
+    "push.sh",
+    "学习的笔记/word/word排版.md",
+    "学习的笔记/123.md",
+    "学习的笔记/学习心得.md",
+    "attachment/word/快捷键手册.jpg",
+    "attachment/word/Pasted image 20250203210920.png",
+    "attachment/word/Pasted image 20250203214654.png",
+    "attachment/word/Pasted image 20250203212520.png",
+    "attachment/word/Pasted image 20250203212338.png",
+    "欢迎.md",
+    "demo.md",
+    "templates",
+    "学习的笔记/word/基本习惯和快捷键.md",
+    "attachment/word/Pasted image 20250203211254.png",
+    "attachment/word/Pasted image 20250203210839.png",
+    "attachment/word/Pasted image 20250203210855.png",
+    "attachment/word",
+    "日记/2025-02-03_周一.md",
+    "学习的笔记/word",
+    "日记/2025-02-02_周六.md",
+    "日记/2025-02-01.md",
+    "模版",
+    "日记/2025-01-31.md",
+    "日记",
+    "attachment",
+    "学习的笔记",
     "未命名.md",
     "note1/1.md",
-    "note1",
-    "欢迎.md"
+    "note1"
   ]
 }
