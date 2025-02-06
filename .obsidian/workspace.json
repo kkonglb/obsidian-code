@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习的笔记/word/基本习惯和快捷键.md",
+                "file": "日记/2025年1月/2025-01-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,11 +94,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基本习惯和快捷键"
+              "title": "2025-01-31"
+            }
+          },
+          {
+            "id": "04761e9433ce1069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025年2月/2025-02-01_周五.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-01_周五"
+            }
+          },
+          {
+            "id": "d48a0cc3572014a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025年2月/2025-02-02_周六.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-02_周六"
+            }
+          },
+          {
+            "id": "fd8d2a4fdddef9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025年2月/2025-02-06_周四.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-06_周四"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -216,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习的笔记/word/基本习惯和快捷键.md",
+                "file": "日记/2025年2月/2025-02-06_周四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基本习惯和快捷键 的大纲"
+              "title": "2025-02-06_周四 的大纲"
             }
           }
         ],
@@ -243,10 +315,24 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "1b48e1635f28d6ba",
+  "active": "fd8d2a4fdddef9ca",
   "lastOpenFiles": [
+    "日记/2025年2月/2025-02-01_周五.md",
+    "日记/2025年2月",
+    "日记/2025年2月/2025-02-02_周六.md",
+    "日记/2025年2月/2025-02-03_周一.md",
+    "日记/2025年2月/2025-02-04_周二.md",
+    "日记/2025年1月/2025-01-31.md",
+    "日记/2025年2月/2025-02-06_周四.md",
+    "日记/2025年1月",
+    "日记/2025年2月/2025-02-05_周三.md",
+    "学习的笔记/word/3合同排版和修订.md",
+    "attachment/word/Pasted image 20250204175947.png",
+    "attachment/word/Pasted image 20250204175845.png",
+    "学习的笔记/word/2 word排版.md",
+    "学习的笔记/word/1 基本习惯和快捷键.md",
+    "attachment/word/Pasted image 20250204172000.png",
     "push.sh",
-    "学习的笔记/word/word排版.md",
     "学习的笔记/123.md",
     "学习的笔记/学习心得.md",
     "attachment/word/快捷键手册.jpg",
@@ -257,22 +343,15 @@
     "欢迎.md",
     "demo.md",
     "templates",
-    "学习的笔记/word/基本习惯和快捷键.md",
     "attachment/word/Pasted image 20250203211254.png",
     "attachment/word/Pasted image 20250203210839.png",
-    "attachment/word/Pasted image 20250203210855.png",
     "attachment/word",
-    "日记/2025-02-03_周一.md",
     "学习的笔记/word",
-    "日记/2025-02-02_周六.md",
-    "日记/2025-02-01.md",
     "模版",
-    "日记/2025-01-31.md",
     "日记",
     "attachment",
     "学习的笔记",
     "未命名.md",
-    "note1/1.md",
-    "note1"
+    "note1/1.md"
   ]
 }
