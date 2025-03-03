@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025年2月/2025-02-07_周五.md",
+                "file": "日记/2025年3月/2025-03-03_周一.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-07_周五"
+              "title": "2025-03-03_周一"
             }
           }
         ],
@@ -288,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025年2月/2025-02-07_周五.md",
+                "file": "日记/2025年3月/2025-03-03_周一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-02-07_周五 的大纲"
+              "title": "2025-03-03_周一 的大纲"
             }
           }
         ],
@@ -317,20 +317,31 @@
   },
   "active": "fd8d2a4fdddef9ca",
   "lastOpenFiles": [
+    "日记/2025年2月/2025-02-13_周四.md",
+    "日记/2025年3月/2025-03-03_周一.md",
+    "日记/2025年2月/2025-02-01_周五.md",
+    "学习的笔记/大二下任务.md",
+    "日记/2025年3月",
+    "日记/2025年2月/2025-03-03_周一.md",
+    "学习的笔记/123.md",
+    "日记/2025年2月/2025-02-17_周一.md",
+    "学习的笔记/学习心得.md",
+    "日记/2025年2月/2025-02-12_周三.md",
+    "日记/2025年2月/2025-02-05_周三.md",
+    "日记/2025年2月/2025-02-09_周日.md",
+    "日记/2025年2月/2025-02-10_周一.md",
+    "日记/2025年2月/2025-02-07_周五.md",
     "attachment/word/Pasted image 20250207222118.png",
     "学习的笔记/PPT/未命名.md",
-    "日记/2025年2月/2025-02-07_周五.md",
     "日记/2025-02-07_周五.md",
     "日记/2025年2月/2025-02-06_周四.md",
     "学习的笔记/PPT",
-    "日记/2025年2月/2025-02-01_周五.md",
     "日记/2025年2月",
     "日记/2025年2月/2025-02-02_周六.md",
     "日记/2025年2月/2025-02-03_周一.md",
     "日记/2025年2月/2025-02-04_周二.md",
     "日记/2025年1月/2025-01-31.md",
     "日记/2025年1月",
-    "日记/2025年2月/2025-02-05_周三.md",
     "学习的笔记/word/3合同排版和修订.md",
     "attachment/word/Pasted image 20250204175947.png",
     "attachment/word/Pasted image 20250204175845.png",
@@ -338,8 +349,6 @@
     "学习的笔记/word/1 基本习惯和快捷键.md",
     "attachment/word/Pasted image 20250204172000.png",
     "push.sh",
-    "学习的笔记/123.md",
-    "学习的笔记/学习心得.md",
     "attachment/word/快捷键手册.jpg",
     "attachment/word/Pasted image 20250203210920.png",
     "attachment/word/Pasted image 20250203214654.png",
@@ -349,13 +358,10 @@
     "demo.md",
     "templates",
     "attachment/word/Pasted image 20250203211254.png",
-    "attachment/word/Pasted image 20250203210839.png",
     "attachment/word",
     "学习的笔记/word",
     "模版",
     "日记",
-    "attachment",
-    "未命名.md",
-    "note1/1.md"
+    "未命名.md"
   ]
 }
