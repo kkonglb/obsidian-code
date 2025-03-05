@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025年3月/2025-03-04_周二.md",
+                "file": "日记/2025年3月/2025-03-05_周三 (安装openGauss).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-04_周二"
+              "title": "2025-03-05_周三 (安装openGauss)"
             }
           }
         ],
@@ -288,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025年3月/2025-03-04_周二.md",
+                "file": "日记/2025年3月/2025-03-05_周三 (安装openGauss).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-04_周二 的大纲"
+              "title": "2025-03-05_周三 (安装openGauss) 的大纲"
             }
           }
         ],
@@ -317,8 +317,13 @@
   },
   "active": "fd8d2a4fdddef9ca",
   "lastOpenFiles": [
-    "日记/2025年3月/2025-03-03_周一.md",
+    "日记/2025年3月/attachments/Pasted image 20250305111116.png",
+    "日记/2025年3月/attachments",
+    "attachment/word/Pasted image 20250305110842.png",
+    "attachment/word/Pasted image 20250305110840.png",
     "日记/2025年3月/2025-03-04_周二.md",
+    "日记/2025年3月/2025-03-05_周三 (安装openGauss).md",
+    "日记/2025年3月/2025-03-03_周一.md",
     "日记/2025年2月/2025-02-13_周四.md",
     "日记/2025年2月/2025-02-01_周五.md",
     "学习的笔记/大二下任务.md",
@@ -354,14 +359,9 @@
     "attachment/word/Pasted image 20250203210920.png",
     "attachment/word/Pasted image 20250203214654.png",
     "attachment/word/Pasted image 20250203212520.png",
-    "attachment/word/Pasted image 20250203212338.png",
-    "欢迎.md",
-    "demo.md",
     "templates",
-    "attachment/word/Pasted image 20250203211254.png",
     "attachment/word",
     "学习的笔记/word",
-    "模版",
-    "日记"
+    "模版"
   ]
 }

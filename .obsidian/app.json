@@ -4,6 +4,9 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "学习的笔记",
-  "attachmentFolderPath": "attachment/word",
-  "strictLineBreaks": true
+  "attachmentFolderPath": "./attachments",
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
