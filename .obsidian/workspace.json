@@ -175,7 +175,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025年3月/2025-03-06_周四 （完成java第一个实验）.md",
+                "file": "日记/2025年3月/2025-03-10_周一(xshell学习).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-06_周四 （完成java第一个实验）"
+              "title": "2025-03-10_周一(xshell学习)"
             }
           }
         ],
@@ -312,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025年3月/2025-03-06_周四 （完成java第一个实验）.md",
+                "file": "日记/2025年3月/2025-03-10_周一(xshell学习).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-06_周四 （完成java第一个实验） 的大纲"
+              "title": "2025-03-10_周一(xshell学习) 的大纲"
             }
           }
         ],
@@ -341,8 +341,11 @@
   },
   "active": "1c5114c461557e3f",
   "lastOpenFiles": [
-    "日记/2025年3月/attachments/Pasted image 20250306171915.png",
+    "日记/2025年3月/2025-03-09_周日.md",
+    "日记/2025年3月/2025-03-10_周一(xshell学习).md",
+    "日记/2025年3月/2025-03-08_周六.md",
     "日记/2025年3月/2025-03-06_周四 （完成java第一个实验）.md",
+    "日记/2025年3月/attachments/Pasted image 20250306171915.png",
     "日记/2025年3月/attachments/Pasted image 20250305111116.png",
     "日记/2025年3月/attachments",
     "attachment/word/Pasted image 20250305110842.png",
@@ -374,15 +377,12 @@
     "日记/2025年2月/2025-02-04_周二.md",
     "日记/2025年1月/2025-01-31.md",
     "日记/2025年1月",
-    "学习的笔记/word/3合同排版和修订.md",
     "attachment/word/Pasted image 20250204175947.png",
     "attachment/word/Pasted image 20250204175845.png",
-    "学习的笔记/word/2 word排版.md",
     "attachment/word/Pasted image 20250204172000.png",
     "push.sh",
     "attachment/word/快捷键手册.jpg",
     "attachment/word/Pasted image 20250203210920.png",
-    "attachment/word/Pasted image 20250203214654.png",
     "templates",
     "attachment/word",
     "学习的笔记/word",
